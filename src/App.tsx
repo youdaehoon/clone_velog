@@ -6,6 +6,7 @@ import Main from './pages/main';
 import Write from './pages/write';
 
 function App() {
+
   console.log(")
   return (
     <div className="App">
