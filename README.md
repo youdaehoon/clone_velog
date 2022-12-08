@@ -24,3 +24,4 @@ style | 스타일 생성 밎 수정
 chore | packaege 추가 밎 script, webpack 등등 config 파일
 docs | Readme 문서 수정
  
+이슈에 어떻게 나타나는지 연습
